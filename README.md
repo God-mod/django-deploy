@@ -1,2 +1,2 @@
 # django-deploy
-yty
+Python Based Project
